@@ -1,0 +1,12 @@
+{
+  "name": "startbootstrap-new-age-gh-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
